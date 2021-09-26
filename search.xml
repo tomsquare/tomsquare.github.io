@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Diary</title>
-    <url>/2021/07/06/diary/</url>
-    <content><![CDATA[<p>這是六月第一週的日記</p>
-<span id="more"></span>
-
-<p>日記內容…</p>
-]]></content>
-      <categories>
-        <category>日記</category>
-      </categories>
-      <tags>
-        <tag>第一週</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>字體測試</title>
     <url>/2021/08/20/fonttest/</url>
     <content><![CDATA[<p>原本想說多看一點集數可以寫比較多心得，結果怎麼反而比較少呢…</p>
@@ -44,5 +29,25 @@
 <p>當初看到 PV 中那個很「創新」的轉生方式後就抓住我的眼球了，不過其實還沒有很想看，直到看見可愛的瑟莉亞之後就決定來看一下了</p>
 <p>目前看下來劇情雖然算不上非常好但還可以接受，但是作畫品質的穩定性就可以拿出來講一下了，單純只有人物的情況下畫得還蠻精細的，但只要一到戰鬥場面就變成 PPT 等級（畫面沒崩，但人物動作極不自然），不意外的話之後的戰鬥場面應該也都是這樣了</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>2021-09-25-hexo-guide-chapter-6</title>
+    <url>/2021/09/25/2021-09-25-hexo-guide-chapter-6/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Diary</title>
+    <url>/2021/07/06/diary/</url>
+    <content><![CDATA[<p>這是六月第一週的日記</p>
+<span id="more"></span>
+
+<p>日記內容…</p>
+]]></content>
+      <categories>
+        <category>日記</category>
+      </categories>
+      <tags>
+        <tag>第一週</tag>
+      </tags>
   </entry>
 </search>
